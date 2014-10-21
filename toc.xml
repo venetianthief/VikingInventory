@@ -5,5 +5,5 @@
     <Form Name="VikingInventoryBag.xml"/>
     <Form Name="VikingItemPreview.xml"/>
     <Form Name="VikingImprovedSalvage.xml"/>
-	<ReplaceAddon Name="Inventory"/>
+    <ReplaceAddon Name="Inventory"/>
 </Addon>
